@@ -23,8 +23,8 @@ const Login = () => {
       return;
     }
 
-    setError(""); // Xatolikni tozalash
-    navigate("/dashboard"); // Keyingi sahifaga yo‘naltirish
+    setError(""); 
+    navigate("/dashboard"); 
   };
 
   return (
